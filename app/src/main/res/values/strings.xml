@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Close Presence</string>
+    <string name="search_beacons">Search Beacons</string>
+    <color name="lime">#29C87C</color>
+    <color name="yel_saf">#F7D700</color>
+    <color name="white">#FFFFFF</color>
+    <color name="beacon_blue">#005D95</color>
+    <color name="beacon_yellow">#FAC425</color>
+</resources>

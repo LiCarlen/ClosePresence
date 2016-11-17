@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/linacarlen/Documents/kurs/Grupparbeten/Hel/Helpro2/ClosePresence/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/linacarlen/Documents/kurs/Grupparbeten/Hel/Helpro2/ClosePresence/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.1.1_db79c2f86e59d2f6f8a3112a88e7bd59938aaf34.jar" />
+    </item>
+    <item
+        jar="/Users/linacarlen/Documents/kurs/Grupparbeten/Hel/Helpro2/ClosePresence/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/linacarlen/Documents/kurs/Grupparbeten/Hel/Helpro2/ClosePresence/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.1.1_52064f904a8f7a874baf06d7eab6d9fc5d879b4c.jar" />
+    </item>
+    <item
+        jar="/Users/linacarlen/Documents/kurs/Grupparbeten/Hel/Helpro2/ClosePresence/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/linacarlen/Documents/kurs/Grupparbeten/Hel/Helpro2/ClosePresence/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.1.1_48786e8c2a260599526315fc1194f03103aa3a42.jar" />
+    </item>
+    <item
+        jar="/Users/linacarlen/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/linacarlen/Documents/kurs/Grupparbeten/Hel/Helpro2/ClosePresence/app/build/intermediates/pre-dexed/debug/okio-1.6.0_c0afa52a028633211f60f5072358a815ca100c3b.jar" />
+    </item>
+    <item
+        jar="/Users/linacarlen/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/linacarlen/Documents/kurs/Grupparbeten/Hel/Helpro2/ClosePresence/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_74d164dd6d76b4dbd518b81796e872ea149b3d28.jar" />
+    </item>
+    <item
+        jar="/Users/linacarlen/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.1.1/3af19f153122737b372622fa6c81dd11a1c6b999/support-annotations-24.1.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/linacarlen/Documents/kurs/Grupparbeten/Hel/Helpro2/ClosePresence/app/build/intermediates/pre-dexed/debug/support-annotations-24.1.1_58d8978528eeab6a54c6075de4ebd9bbf56300d8.jar" />
+    </item>
+    <item
+        jar="/Users/linacarlen/Documents/kurs/Grupparbeten/Hel/Helpro2/ClosePresence/app/build/intermediates/exploded-aar/com.koushikdutta.ion/ion/2.1.9/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="7e54ea31584406fcc68225a8656f384c333ff2ee">
+        <dex dex="/Users/linacarlen/Documents/kurs/Grupparbeten/Hel/Helpro2/ClosePresence/app/build/intermediates/pre-dexed/debug/com.koushikdutta.ion-ion-2.1.9_93b8e37d9e0a0d2cf034315084acb034ecf4c82f.jar" />
+    </item>
+    <item
+        jar="/Users/linacarlen/Documents/kurs/Grupparbeten/Hel/Helpro2/ClosePresence/app/build/intermediates/exploded-aar/org.altbeacon/android-beacon-library/2.9.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="0b271af1568b43a528bba26d19c5874bb91c34cd">
+        <dex dex="/Users/linacarlen/Documents/kurs/Grupparbeten/Hel/Helpro2/ClosePresence/app/build/intermediates/pre-dexed/debug/org.altbeacon-android-beacon-library-2.9.1_37b6127b7c96bc41679dc823bbd4a06c48b43011.jar" />
+    </item>
+    <item
+        jar="/Users/linacarlen/Documents/kurs/Grupparbeten/Hel/Helpro2/ClosePresence/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/linacarlen/Documents/kurs/Grupparbeten/Hel/Helpro2/ClosePresence/app/build/intermediates/pre-dexed/debug/internal_impl-24.1.1_837e06e767dfb31b0b1aec48d0a513841dfefc91.jar" />
+    </item>
+    <item
+        jar="/Users/linacarlen/Documents/kurs/Grupparbeten/Hel/Helpro2/ClosePresence/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/linacarlen/Documents/kurs/Grupparbeten/Hel/Helpro2/ClosePresence/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.1.1_dc723f861f4dfda0bf74fb425177a1cec881de94.jar" />
+    </item>
+    <item
+        jar="/Users/linacarlen/Documents/kurs/Grupparbeten/Hel/Helpro2/ClosePresence/app/build/intermediates/exploded-aar/com.koushikdutta.async/androidasync/2.1.9/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="60d0e28fe7ab6da6c03b54cd8ede502284d51a81">
+        <dex dex="/Users/linacarlen/Documents/kurs/Grupparbeten/Hel/Helpro2/ClosePresence/app/build/intermediates/pre-dexed/debug/com.koushikdutta.async-androidasync-2.1.9_d63cc4ae8fbdc08c983d9aa0853ff0ae397fc323.jar" />
+    </item>
+    <item
+        jar="/Users/linacarlen/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/Users/linacarlen/Documents/kurs/Grupparbeten/Hel/Helpro2/ClosePresence/app/build/intermediates/pre-dexed/debug/gson-2.6.2_4e209953dcc2939b501f4163295953ab9e0e0927.jar" />
+    </item>
+
+</items>
